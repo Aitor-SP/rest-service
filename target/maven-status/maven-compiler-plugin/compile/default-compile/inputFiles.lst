@@ -1,0 +1,8 @@
+/home/dam2a/DAM 2/complete/src/main/java/com/example/restservice/repository/PersonajeRepository.java
+/home/dam2a/DAM 2/complete/src/main/java/com/example/restservice/controller/PersonajeController.java
+/home/dam2a/DAM 2/complete/src/main/java/com/example/restservice/GreetingController.java
+/home/dam2a/DAM 2/complete/src/main/java/com/example/restservice/Greeting.java
+/home/dam2a/DAM 2/complete/src/main/java/com/example/restservice/RestServiceApplication.java
+/home/dam2a/DAM 2/complete/src/main/java/com/example/restservice/exception/ResourceNotFoundException.java
+/home/dam2a/DAM 2/complete/src/main/java/com/example/restservice/model/Personaje.java
+/home/dam2a/DAM 2/complete/src/main/java/com/example/restservice/model/Carta.java
